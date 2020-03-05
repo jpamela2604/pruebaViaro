@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Colegio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="usuario_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">system</Value>
+    </Setting>
+    <Setting Name="contrasenia_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pampam</Value>
+    </Setting>
+    <Setting Name="nombre_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ORCL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
